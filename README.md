@@ -11,6 +11,7 @@ Python ile yapıldı, exxen combo listleri için temel checker.
 
 
 EU: When a hit is found, it automatically tags you from discord.
+
 TR: Hit bulunduğu zaman, sizi otomatik olarak discorddan etiketler.
 ![alt text](https://media.discordapp.net/attachments/1056131384692985856/1070752976085454848/hitted.jpg)
 
